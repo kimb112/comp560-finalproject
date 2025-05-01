@@ -4,3 +4,5 @@ We propose building an AI model that offers efficient discovery of educational Y
 	To achieve this, we will leverage a pre-trained language model—BERT (Bidirectional Encoder Representations from Transformers)—to generate semantic embeddings of both user inputs and video metadata. These embeddings enable the measurement of the semantic similarity between the user’s prompt and available videos, improving the relevance of search results beyond basic keyword matching.
 
 Link to Slides: https://docs.google.com/presentation/d/16nIRASdvegxLC30V3_NtA5qPiCi_iEQ8REhO40-y7VQ/edit?usp=sharing
+
+Link to UI: https://huggingface.co/spaces/annabellarinaldi/YouTube-Semantic-Search
