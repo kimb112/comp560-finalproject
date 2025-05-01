@@ -5,4 +5,4 @@ We propose building an AI model that offers efficient discovery of educational Y
 
 Link to Slides: https://docs.google.com/presentation/d/16nIRASdvegxLC30V3_NtA5qPiCi_iEQ8REhO40-y7VQ/edit?usp=sharing
 
-Link to UI: https://huggingface.co/spaces/annabellarinaldi/YouTube-Semantic-Search
+Link to Final Project: https://huggingface.co/spaces/annabellarinaldi/YouTube-Semantic-Search
